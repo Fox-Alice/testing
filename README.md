@@ -1,1 +1,1 @@
-# testing
+# testing - учебны проект по тестиированию mocha, chai, sinon
